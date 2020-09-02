@@ -1,0 +1,21 @@
+---
+title: "First Day of Senior Year ~ HC"
+date: "2020-09-01"
+---
+
+As my summer of driving trucks and moving dressers from Boston to Iowa came to a close, I studied linear algebra through the help of Prof. Gilbert Strang and his course on MIT Open Courseware. Although the subject matter was very engaging, I'm still only able to visualize 3 - maybe 4 - dimensions. 
+
+Side-Note:
+The 4th is a bit iffy as I imagine it as the state of a 3 dimensional vector at two discrete moments in time, given by the 4th dimension. When a second 4 dimensional basis vector is given, the first three dimensions of the two vectors can be connected with continuous planes. The visualization is seemingly impossible for me to completely grasp, though the concept of the 4th dimension as the state of any dimensional vector at a given point in time is rather appealing. Due to the principle of mathematical continuity, if a subspace of 2 vectors were to have the same 4th dimension, but a difference in the other 3 dimensions, then my logic of the 4th dimension being the state of a certain 3 dimensional vector at a given time would break down as the change of the vector would be in superposition. To overcome this issue of continuity, a 5th dimension could be imagined that serves as a super-state of the 4th dimension, in which there are discrete isolated vector universes, where the 2 vectors with different x, y, z values but the same t value,assuming (x,y,z,t,f), and there exists a 5th dimension f that differs between the two vectors. Stating the 2 vectors in a subspace is not to imply that every subspace of 4 dimensional vectors represents the same vector. It is merely a thought experiment to show how a 4th "time" dimension t can be thought of in a visual manner.
+
+Anyhow, I completed this lecture series in order to qualify for the Quantum Computing and Information class offered by the Holy Cross physics department this fall, since vector multiplication, dot/cross products, inverses, eignevectors, and eigenvalues are all imperative to understanding quibit operations. I originally planned to take quantum mechanics to obtain a less made-up understanding of the physical world, but the self-paced multivariable calculus class I was taking online wasn't so self-paced after all. The earliest I was allowed to finish was October, which was insufficient for qm starting in September (today). This qc class should suffice in expanding on the principles of qm, in a more applied fashion.
+
+Aside from Quantum Computing and Information, I am taking Artificial Intelligence, Soviet History, Jazz Dance (complements of liberal arts history & art common requirements), and research for credit in the visual neuroscience lab I worked in last summer.
+
+I expect Artificial Intelligence to be one of the most useful classes I take here, due to the exponentially growing importance of utilizing humungous datasets relevant to business strategies and research problems in any given industry. Big data is of no use if you have to manually classify dynamically changing patterns out of millions of datapoints.
+
+Soviet history will be inciteful regarding events leading to our almost-demise in the cold war. Jazz Dance may in the midst of it all come up as the most useful class in the form of stress-relief... or if I have some sort of hidden talent.
+
+My neuroscience research project involves firstly constructing our dynamic ebbinghaus and ponzo illusion article, and secondly performing multivariate pattern analysis on previously collected EEG data. This practical machine learning project should tie in well to those I complete in AI, and is directly in the realm of my career goals. I would love to be involved in objectively deciphering the suppressed and unknown treasures of the mind.
+
+With a limited amount of students on campus this semester, I am grateful for having a house with 9 friends and a street full of friendly neighbors. So here I sit in the VNL birdhouse of Beaven, likely the best study spot remaining on campus with the formerly 24hr libraries closing at 5pm each night.
